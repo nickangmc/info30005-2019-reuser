@@ -1,15 +1,13 @@
 # reuser
 
 ### Creators
-
 - [Andy Vo](https://github.com/voandy)
 - [Nick Ang](https://github.com/nickangmc)
 - [Shaun Soong](https://github.com/Shankskun)
 - [Christian Sugianto](https://github.com/christianhadinata)
 
 ### About
-
-reuser is a website developed by Andy, Nick, Shaun and Christian as the major assignment for the subject INFO30005: Web Information Technologies at the University of Melbourne - Semester 1, 2019.
+reuser is a website developed by Andy. V, Nick. A, Shaun. S, and Christian. S as the major project for the subject INFO30005: Web Information Technologies at the University of Melbourne - Semester 1, 2019.
 
 [![reuser video](readme-img/video.jpg)](https://www.youtube.com/watch?v=sOCh-H1qT74)
 
